@@ -1,4 +1,4 @@
-package com.test_gits.test;
+package com.test_gits;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
