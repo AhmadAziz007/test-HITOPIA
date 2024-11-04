@@ -1,4 +1,4 @@
-package com.test_gits;
+package com.test_gits.test;
 
 import java.util.Stack;
 
